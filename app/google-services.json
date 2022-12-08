@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "222283228842",
+    "project_id": "fir-signin-9a0aa",
+    "storage_bucket": "fir-signin-9a0aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222283228842:android:57a26cba01493f194092d3",
+        "android_client_info": {
+          "package_name": "com.example.livefootball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222283228842-djm2i6f30n9htotnnncvuvfq52uqdkeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.livefootball",
+            "certificate_hash": "146ee8a34d3949df43d8b9bd3985ea8875aa29d2"
+          }
+        },
+        {
+          "client_id": "222283228842-bg2jeqg1lflmsqaub2op16o3e9tminha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmQmWU9GczPg4N6T9_SvD76g9jR4EKICs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222283228842-bg2jeqg1lflmsqaub2op16o3e9tminha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
